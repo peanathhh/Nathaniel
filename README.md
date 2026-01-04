@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Cybersecurity+Student;Networking+Learner;Blue+Team+%7C+Red+Team;Always+Learning" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=peanathhh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 ## 🧠 About Me
 
