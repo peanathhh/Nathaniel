@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nathaniel Sarzaba</h1>
-<h3 align="center">Cybersecurity & Networking Applicant</h3>
+<h1 align="center">Hi 👋, I'm Nathaniel Soriano Sarzaba</h1>
+<h3 align="center">Programmer/Cycber Security</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Cybersecurity+Student;Networking+Learner;Blue+Team+%7C+Red+Team;Always+Learning" />
@@ -9,18 +9,16 @@
 </p>
 ## 🧠 About Me
 
-- 🎓 IT Student | OJT Trainee
-- 🔐 Interested in Cybersecurity & Ethical Hacking
-- 🌐 Learning Networking (TCP/IP, DNS, Routing)
-- 🖥️ Practicing Linux & Windows Security
-- 🚀 Goal: Become a Cybersecurity / Network Engineer
+- IT Graduate
+- Interested in Cybersecurity & Ethical Hacking
+- Learning Networking (TCP/IP, DNS, Routing)
+- Practicing Linux & Windows Security
+- Goal: Become a Cybersecurity / Network Engineer
+- Use a laravel 12 with React
+- Flutter
+- React Native
 ## 🛠 Skills
 
-### 🔐 Cybersecurity
-- Linux Security
-- Windows Security
-- Basic Penetration Testing
-- Password & Authentication Concepts
 
 ### 🌐 Networking
 - TCP/IP Model
@@ -28,11 +26,6 @@
 - DNS, DHCP
 - Basic Routing & Switching
 
-### 🧰 Tools
-- Git & GitHub
-- Wireshark
-- Nmap (learning)
-- VirtualBox / VMware
 ## 📊 GitHub Stats
 
 <p align="center">
