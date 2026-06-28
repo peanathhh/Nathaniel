@@ -7,24 +7,20 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=peanathhh&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-## 🧠 About Me
+About Me
 
 - IT Graduate
-- Interested in Cybersecurity & Ethical Hacking
+- Interested in Cybersecurity/Networking
 - Learning Networking (TCP/IP, DNS, Routing)
 - Practicing Linux & Windows Security
-- Goal: Become a Cybersecurity / Network Engineer
-- Use a laravel 12 with React
+
+Skills
+- Laravel 12 with React
 - Flutter
 - React Native
-## 🛠 Skills
+- Python
 
 
-### 🌐 Networking
-- TCP/IP Model
-- OSI Model
-- DNS, DHCP
-- Basic Routing & Switching
 
 ## 📊 GitHub Stats
 
